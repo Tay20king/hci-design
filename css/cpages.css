@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/* CSS document */
+
+body{
+	font-family:Avenir Next, Arial, Helvetica, sans-serif;
+}
+
+
+.navbar-dark {
+    --bs-navbar-color: rgba(255, 255, 255, 0.65);
+    --bs-navbar-toggler-border-color: rgba(255, 255, 255, 0.5);
+    
+}
+
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgba(89, 89, 89, 1.0)!important;
+}
+
+.navbar-toggler {
+    border: var(--bs-border-width) solid rgba(255, 255, 255, 0.5);;
+}
+
+.homepage{
+	padding-top: 10px;
+}
+
+.footer{
+	background-color: rgba(89, 89, 89, 1.0)!important;
+	color: #fff;
+	text-align: center;
+	padding-top: 15px;
+	margin-top; 10px;
+	height: 60px;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+}
+
+.designpage{
+	padding-top: 10px;
+}
+
+.cardContainer{
+	max-width: 1000px;
+}
+
+.btn{
+	background-color: #FF4E00;
+	color: #fff;
+}
+
+.btn-primary:hover{
+	background-color: black;
+
+}
+
+.btn-primary:visited,
+.btn-primary:active
+.btn-primary:focus{
+	background-color: #FF4E00;
+
+}
+
+.modal-body{
+	text-align: center;
+}
