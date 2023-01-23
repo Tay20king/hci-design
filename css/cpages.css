@@ -46,7 +46,7 @@ body{
 }
 
 .btn{
-	background-color: #FF4E00;
+	background-color: #FF4E55;
 	color: #fff;
 }
 
@@ -58,7 +58,7 @@ body{
 .btn-primary:visited,
 .btn-primary:active
 .btn-primary:focus{
-	background-color: #FF4E00;
+	background-color: #FF4E55;
 
 }
 
